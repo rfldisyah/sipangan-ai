@@ -6,7 +6,5 @@ joblib
 fastapi
 uvicorn[standard]
 httpx
-tensorboard
-matplotlib
-seaborn
 requests
+
